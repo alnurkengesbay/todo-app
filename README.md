@@ -18,5 +18,5 @@ A modern and interactive ToDo application inspired by Microsoft To Do.
 
 
 ## 🔗 Live Demo
-[View Live]([https://alnurkengesbay.github.io/todo-app/])
+[View Live](https://alnurkengesbay.github.io/todo-app/)
 
